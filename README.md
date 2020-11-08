@@ -1,2 +1,2 @@
-# comments-microk8s-helm
-Comments for the microk8s-helm blog for use by utteranc.es
+# blog-comments
+blog Comments repo managed by utteranc.es
